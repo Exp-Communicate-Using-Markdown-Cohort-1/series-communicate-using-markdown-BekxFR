@@ -10,7 +10,11 @@
 
 ###### Lowest Header - 6 `#`
 
+##### Introduce image with alt-text on Markdown
+
 ![Image of GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
+
+#### Introduce code blocks with different language styles on Markdown
 
 ```
 $ git init
@@ -43,3 +47,10 @@ int main(void) {
   }
 }
 ```
+
+##### Introduce list on Markdown
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Verify is all public pages have good Markdown
